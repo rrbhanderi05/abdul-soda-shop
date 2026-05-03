@@ -36,4 +36,4 @@ This project was built to master the concepts from **Chapter 7** of my Python cu
 - Handling the `ValueError` exception during list operations.
 
 ---
-*Developed by Rushi Bhanderi as part of a 90-day GitHub sprint.*
+*Developed by Rushikesh Bhanderi as part of a 90-day GitHub sprint.*

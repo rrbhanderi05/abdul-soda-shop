@@ -24,4 +24,16 @@ The program operates on a three-tier check system:
 Ensure you have Python installed.
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/rrbhanderi05/abdul-soda-shop.git](https://github.com/rrbhanderi05/abdul-soda-shop.git)
+   git clone [https://github.com/rrbhanderi05/abdul-soda-shop.git]
+2. Run the script:
+   ```bash
+   python soda_shop.py
+
+### 📚 Learning Outcomes
+This project was built to master the concepts from **Chapter 7** of my Python curriculum:
+- Using `while` loops for continuous user interaction.
+- Managing nested data structures (List of orders + List of inventory).
+- Handling the `ValueError` exception during list operations.
+
+---
+*Developed by Rushi Bhanderi as part of a 90-day GitHub sprint.*
